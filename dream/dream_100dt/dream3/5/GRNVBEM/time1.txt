@@ -1,0 +1,23 @@
+	Command being timed: "./GRNVBEM data/inputs/dream3/5/GRNVBEM/ExpressionData1.csv data/outputs/dream3/5/GRNVBEM/outFile1.txt"
+	User time (seconds): 1216.50
+	System time (seconds): 1295.06
+	Percent of CPU this job got: 1108%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:46.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 490908
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 83
+	Minor (reclaiming a frame) page faults: 63313
+	Voluntary context switches: 3022276
+	Involuntary context switches: 24306
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2400
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

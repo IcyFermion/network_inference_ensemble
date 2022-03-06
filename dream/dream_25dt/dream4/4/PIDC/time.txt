@@ -1,0 +1,23 @@
+	Command being timed: "julia -p 23 runPIDC.jl data/inputs/dream4/4/PIDC/ExpressionData.csv data/outputs/dream4/4/PIDC/outFile.txt"
+	User time (seconds): 51.57
+	System time (seconds): 2.84
+	Percent of CPU this job got: 43%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:06.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 460616
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 61
+	Minor (reclaiming a frame) page faults: 983746
+	Voluntary context switches: 13051
+	Involuntary context switches: 11812
+	Swaps: 0
+	File system inputs: 123514
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
