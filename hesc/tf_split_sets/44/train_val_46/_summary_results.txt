@@ -1,0 +1,7 @@
+Write output to file _summary_results.txt inside the output folder 
+hESC_output_RF-mod_Ksqrt_ntrees300_datatypeTS-SS_LOdataTS_priorgs_train_val_46
+MSE Pen. Value Naive Time-Series Test set: 7.804055664366329
+MSE Time-Series Test Set of the best model is: 4.335172489549872
+
+ Influences Inference: Causal connections from transcription factors to genes are printed to file as a ranked list of interactions (Ranked_list_TF_gene) and as a matrix (Matrix_TF_gene) inside the output folder 
+Run_name: 300hESC0.15TS-SSTS08
