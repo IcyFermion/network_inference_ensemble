@@ -74,7 +74,7 @@ def main(argv):
         auc(ensemble_pr[1], ensemble_pr[0])))
 
     if (len(test_data_file) > 0):
-        test_df = pd.read_csv('test.csv')
+        test_df = pd.read_csv(test_data_file)
         X_test = test_df[algos_selected].values
         X_test = min_max_scaler.fit_transform(X_test)
         a = clf.predict_proba(X_test)[:, 1]
